@@ -12,7 +12,6 @@ const stockSymbols = [
   "DIS",
   "NFLX",
   "PEP",
-  "JPM",
 ];
 
 export default async function fetchStockData() {
